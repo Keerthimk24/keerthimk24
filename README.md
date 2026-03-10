@@ -22,14 +22,14 @@
       <h2><img src="https://media.giphy.com/media/vgSm142L8XNuw/giphy.gif" width="30"> About Me</h2>
       I am a <b>Data Science student</b> deeply passionate about extracting meaningful insights from complex datasets and building intelligent systems that can make a real-world impact.
       <br><br>
-      🎓 <b>Education:</b> B.Tech Student specializing in Data Science & AI<br>
+      🎓 <b>Education:</b> B.Tech Student specializing in Data Science <br>
       🏢 <b>Current Role:</b> Data Engineering & Big Data Intern<br>
       🧠 <b>Interests:</b> Machine Learning, Deep Learning, NLP, Big Data<br>
-      🎯 <b>Goal:</b> To become an AI/ML Research Engineer<br>
+      🎯 <b>Goal:</b> To become an employee where i can implement my skills in profiecient way<br>
       <br>
       - 📊 <b>Analyzing</b> data trends and building interactive dashboards.<br>
-      - 🤖 <b>Exploring</b> robust ML models and Computer Vision.<br>
-      - ⚡ <b>Fun Fact:</b> I can debug code twice as fast with a good cup of coffee! ☕
+      - 🤖 <b>Exploring</b>QML and the java full stack.<br>
+      
     </td>
     <td width="40%" align="center">
       <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="300" alt="Animated Coder"/>
