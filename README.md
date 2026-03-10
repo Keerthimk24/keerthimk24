@@ -159,7 +159,7 @@ AI system that classifies behavior as Safe, Moderate, or Aggressive.
 
 <!-- ================= ANIMATED DEV QUOTE ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&multiline=false&width=600&height=50&lines=%22Data+is+the+new+oil.+We+must+find+it%2C+refine+it%2C+and+use+it.%22;%22Talk+is+cheap.+Show+me+the+code.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&multiline=false&width=600&height=50&lines=%22I+am+a+fast+learner.%22;%22Highly+committed+to+writing+great+code.%22;%22Always+ready+for+the+next+challenge.%22"/>
 </p>
 
 <!-- ================= FOOTER WAVING ANIMATION ================= -->
