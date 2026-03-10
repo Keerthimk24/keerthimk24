@@ -71,7 +71,7 @@
   <br><br>
   <!-- Databases & Tools -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
   </a>
 </p>
 
@@ -146,7 +146,7 @@ AI system that classifies behavior as Safe, Moderate, or Aggressive.
 
 <p align="center">
   <!-- Replaced with a highly reliable theme. These automatically fetch your data! -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Keerthimk24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Keerthimk24&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
 
 <!-- ================= ANIMATED SNAKE ================= -->
